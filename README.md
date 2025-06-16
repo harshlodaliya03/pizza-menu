@@ -33,7 +33,7 @@ A simple pizza menu app built while learning React.js. It displays a list of piz
 
 ## 📍 Live Demo
 
-🌐 [Live Site on Netlify] - (https://thriving-youtiao-db75ac.netlify.app/)
+🌐 [Live Site on Netlify] - (https://pizaa-menu-app.netlify.app/)
 
 ---
 
